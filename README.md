@@ -5,14 +5,21 @@ Real-time Sign Language Detection is a deep learning-based system that translate
 Features:
 
 -Real-time Gesture Recognition: Detects and translates sign language gestures into text instantly.
+
 -Deep Learning Model: Utilizes a CNN trained on labeled gesture datasets for accurate predictions.
+
 -Computer Vision Integration: Uses OpenCV for video processing and real-time detection.
+
 -User-Friendly Interface: Provides an interactive environment to facilitate sign language communication.
 
 Technologies Used:
 
 -Python
+
 -TensorFlow
+
 -OpenCV
+
 -LabelImg (for annotating images)
+
 -Jupyter Notebook
